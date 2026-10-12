@@ -1,134 +1,134 @@
 {
   "zh": {
     "ai-cli": [
-      "Claude Code 热点问题达10个",
-      "Gemini CLI 发布 v0.65.0-nightly",
-      "OpenAI Codex 24小时内合并10个PR",
-      "GitHub Copilot CLI 存在10个开放问题",
-      "Pi 工具在CLI领域受关注",
-      "Qwen Code 社区使用量上升"
+      "AI CLI 竞赛转向智能体可靠性与信任",
+      "Qwen Code 发布 CLI、SDK 和桌面端产物",
+      "Gemini CLI 每夜版节奏加入安全加固",
+      "静默子智能体故障与会话损坏蔓延",
+      "MCP 认证故障与配额不匹配波及所有工具",
+      "Claude Code：50 个问题更新，无新版本"
     ],
     "ai-agents": [
-      "OpenClaw v2026.10.5-beta.1 发布",
-      "OpenClaw 存在严重内存泄漏",
-      "SQLite WAL膨胀影响代理",
-      "更新恢复失败持续存在",
-      "IronClaw 扩展代理能力",
-      "Hermes Agent 新增集成"
+      "OpenClaw：24 小时内更新 500 个问题和 500 个 PR",
+      "OpenClaw v2026.10.2 修复原地升级问题",
+      "v2026.10.5-beta.1 加固 Windows 与文件系统更新",
+      "持续 P0/P1 缺陷：内存泄漏、僵尸进程",
+      "两个新版本聚焦更新可靠性",
+      "357 个开放问题，363 个开放 PR，137 个已合并"
     ],
     "ai-infra": [
-      "vLLM：8个开放问题，3个严重",
-      "SGLang：Blackwell性能提升",
-      "llama.cpp：修复Vulkan/OpenCL问题",
-      "Ollama：9个高危问题",
-      "LiteLLM：多提供方支持",
-      "Unsloth 增加多模态训练"
+      "vLLM 0.30.0 出现前缀缓存回归",
+      "vLLM：24 小时内更新 86 个问题、464 个 PR",
+      "SGLang 将 Intel XPU 迁移至 PyTorch 2.14",
+      "LiteLLM 聚焦 MCP 认证与支出准确性",
+      "Unsloth 修复静默训练失败与 KV 抢占",
+      "MoE、MLA、量化 KV 与非 NVIDIA 后端竞速"
     ],
     "ai-trending": [
-      "firecrawl/firecrawl 星标突破19万",
-      "affaan-m/ECC 领先代理基础设施",
-      "PageIndex 提供无向量RAG",
-      "LEANN 挑战传统数据库",
-      "本地优先AI应用势头强劲",
-      "ollama/ollama 星标达18.2万"
+      "morluto/rea 因智能体 RE 新增 +25,599 星",
+      "diagram-design 因智能体图表新增 +1,083 星",
+      "pytorch/pytorch 今日新增 +315 星",
+      "AirLLM 因单 GPU 推理新增 +548 星",
+      "RAG 转向图/无向量检索与记忆",
+      "Open WebUI、MoneyPrinterTurbo、Cherry Studio 走热"
     ],
     "ai-hn": [
-      "Mistral Large 4 引发热议",
-      "OpenAI 解雇3名安全研究员",
-      "AI通过LLM发现行星",
-      "模型字节级改造",
-      "数学求解结果引发关注",
-      "认知依赖担忧上升"
+      "Mistral Large 4 登顶 HN：2040 分，1212 条评论",
+      "OpenAI 数学进展评论最多，达 1532 条",
+      "Karpathy 帖子讨论 LLM 能力差距扩大",
+      "OpenAI 安全研究员被解雇引发治理讨论",
+      "据报道 Nvidia 与 Reflection AI 洽谈收购",
+      "智能体工具演示遭遇验证质疑"
     ],
     "ai-ph": [
-      "ReSO AI 获469票领先",
-      "Microsoft-Decision-1 进入市场",
-      "Onepin 赢得AI语音项目",
-      "Claude Dashboards & Motion 上线",
-      "AI代理主导产品趋势",
-      "企业级代理兴起"
+      "ReSO AI 以 469 票领跑 Product Hunt",
+      "Onepin 以 444 票紧随，用于 AI 配音",
+      "Microsoft-Decision-1 发布，获 174 票",
+      "Claude Dashboards & Motion 用于实时分析",
+      "AI 智能体与开发工具主导 Product Hunt",
+      "Product Hunt 今日列出 11 款 AI 产品"
     ],
     "ai-hf": [
-      "Qwen3.8-27B 下载量达680万",
-      "Lightricks/LTX-2.5 达170万",
-      "prism-ml/Ternary-Bonsai-2-27B-gguf 450万",
-      "ConwayResearch 2-bit模型受关注",
-      "2-bit量化成主流趋势",
-      "GGUF模型更受速度青睐"
+      "Qwen/Qwen3.8-27B 登顶 HF：17,530 赞",
+      "Qwen3.8-Flash-Next 达 6,122 赞，1.87M 下载",
+      "DeepSeek-V4.1-Flash 获 4,381 赞、1.38M 下载",
+      "Lightricks/LTX-2.5 因视频获 7,354 赞",
+      "Cloudflare/clef 在 Qwen3.5 上达 2,047 赞",
+      "量化浪潮：GSQ-RCO 与三值 2-bit GGUF"
     ],
     "ai-community": [
-      "TerraPulse：无屏徒步代理",
-      "AI成功替代开发流程",
-      "LLMs检测数据管道异常",
-      "Whistle模型仅16.9MB",
-      "离线代理推动户外使用",
-      "防护机制对AI代理至关重要"
+      "AI 评估主导 Dev.to 与 Lobste.rs",
+      "格鲁吉亚语基准测试对比 AI 实验室，36 反应",
+      "README Clew 2 使用多模型流水线，22 反应",
+      "转向 AI 智能体、MCP 服务器与防护栏的实践",
+      "Hacktoberfest“Touch Grass”挑战催生 AI 应用",
+      "Lobste.rs：字节级 LM、Rust ML、分布式系统"
     ]
   },
   "en": {
     "ai-cli": [
-      "Claude Code hits 10 hot issues",
-      "Gemini CLI releases v0.65.0-nightly",
-      "OpenAI Codex merges 10 PRs in 24h",
-      "GitHub Copilot CLI has 10 open issues",
-      "Pi tool gains traction in CLI space",
-      "Qwen Code sees rising community use"
+      "AI CLI race shifts to agent reliability and trust",
+      "Qwen Code ships CLI, SDK, and desktop artifacts",
+      "Gemini CLI nightly cadence adds security hardening",
+      "Silent subagent failures and session corruption spread",
+      "MCP auth breakage and quota mismatches hit all tools",
+      "Claude Code: 50 issues updated, no releases"
     ],
     "ai-agents": [
-      "OpenClaw v2026.10.5-beta.1 released",
-      "Critical memory leaks in OpenClaw",
-      "SQLite WAL bloat affecting agents",
-      "Update recovery failures persist",
-      "IronClaw expands agent capabilities",
-      "Hermes Agent gains new integrations"
+      "OpenClaw: 500 issues and 500 PRs updated in 24h",
+      "OpenClaw v2026.10.2 fixes clean in-place upgrades",
+      "v2026.10.5-beta.1 hardens Windows and filesystem updates",
+      "Persistent P0/P1 bugs: memory leaks, zombie processes",
+      "Two new releases focus on update reliability",
+      "357 open issues, 363 open PRs, 137 merged"
     ],
     "ai-infra": [
-      "vLLM: 8 open issues, 3 critical",
-      "SGLang: Blackwell performance gains",
-      "llama.cpp: Vulkan/OpenCL fixes",
-      "Ollama: 9 high-severity issues",
-      "LiteLLM: Multi-provider support",
-      "Unsloth adds multimodal training"
+      "vLLM 0.30.0 has prefix-caching regression",
+      "vLLM: 86 issues, 464 PRs updated in 24h",
+      "SGLang migrates Intel XPU to PyTorch 2.14",
+      "LiteLLM targets MCP auth and spend accuracy",
+      "Unsloth fixes silent training failures, KV preemption",
+      "MoE, MLA, quantized KV, non-NVIDIA backends race"
     ],
     "ai-trending": [
-      "firecrawl/firecrawl surges to 190k stars",
-      "affaan-m/ECC leads agent infrastructure",
-      "PageIndex offers vectorless RAG",
-      "LEANN challenges traditional DBs",
-      "Local-first AI apps gain momentum",
-      "ollama/ollama hits 182k stars"
+      "morluto/rea adds +25,599 stars for agentic RE",
+      "diagram-design gains +1,083 stars for agent diagrams",
+      "pytorch/pytorch adds +315 stars today",
+      "AirLLM adds +548 stars for single-GPU inference",
+      "RAG shifts to graph/vectorless retrieval and memory",
+      "Open WebUI, MoneyPrinterTurbo, Cherry Studio trend"
     ],
     "ai-hn": [
-      "Mistral Large 4 sparks debate",
-      "OpenAI fires 3 safety researchers",
-      "AI discovers planets via LLMs",
-      "Retrofitting models at byte level",
-      "Math-solving results cause buzz",
-      "Cognitive dependency concerns rise"
+      "Mistral Large 4 tops HN: 2040 points, 1212 comments",
+      "OpenAI math progress most-commented with 1532 comments",
+      "Karpathy thread debates widening LLM capability gap",
+      "OpenAI safety-researcher firings spark governance talk",
+      "Nvidia-Reflection AI acquisition talks reported",
+      "Agent tooling demos met with verification skepticism"
     ],
     "ai-ph": [
-      "ReSO AI leads with 469 votes",
-      "Microsoft-Decision-1 enters market",
-      "Onepin wins for AI voiceovers",
-      "Claude Dashboards & Motion launches",
-      "AI agents dominate product trends",
-      "Enterprise-grade agents on the rise"
+      "ReSO AI leads Product Hunt with 469 votes",
+      "Onepin follows with 444 votes for AI voiceovers",
+      "Microsoft-Decision-1 launches with 174 votes",
+      "Claude Dashboards & Motion for real-time analytics",
+      "AI agents and dev tooling dominate Product Hunt",
+      "11 AI products listed today on Product Hunt"
     ],
     "ai-hf": [
-      "Qwen3.8-27B hits 6.8M downloads",
-      "Lightricks/LTX-2.5 surges to 1.7M",
-      "prism-ml/Ternary-Bonsai-2-27B-gguf at 4.5M",
-      "ConwayResearch’s 2-bit model gains traction",
-      "2-bit quantization dominates trends",
-      "GGUF models now preferred for speed"
+      "Qwen/Qwen3.8-27B tops HF: 17,530 likes",
+      "Qwen3.8-Flash-Next hits 6,122 likes, 1.87M downloads",
+      "DeepSeek-V4.1-Flash gets 4,381 likes, 1.38M downloads",
+      "Lightricks/LTX-2.5 hits 7,354 likes for video",
+      "Cloudflare/clef reaches 2,047 likes on Qwen3.5",
+      "Quantization wave: GSQ-RCO and ternary 2-bit GGUF"
     ],
     "ai-community": [
-      "TerraPulse: screenless hiking agent",
-      "AI replaces dev workflow successfully",
-      "LLMs detect data pipeline anomalies",
-      "Whistle model at just 16.9 MB",
-      "Offline agents promote outdoor use",
-      "Guardrails essential for AI agents"
+      "AI evaluation dominates Dev.to and Lobste.rs",
+      "Georgian language benchmark pits AI labs, 36 reactions",
+      "README Clew 2 uses multi-model pipeline, 22 reactions",
+      "Practical turn to AI agents, MCP servers, guardrails",
+      "Hacktoberfest 'Touch Grass' challenge spawns AI apps",
+      "Lobste.rs: byte-level LMs, Rust ML, distributed systems"
     ]
   }
 }
