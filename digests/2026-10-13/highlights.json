@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "AI CLI 工具转向生产级智能体运行时",
+      "Copilot CLI 发布 v1.0.97-2 和 v1.0.96",
+      "Gemini CLI 发布 v0.65.0-nightly.20261013",
+      "Codex：24 小时内更新 50 个议题和 24 个 PR",
+      "企业重点：BYOK 路由、MCP 认证、沙箱",
+      "Claude Code 沉寂，但 10 个议题受关注"
+    ],
+    "ai-agents": [
+      "OpenClaw：24 小时内更新 500 个议题和 500 个 PR",
+      "OpenClaw 在 24 小时内关闭 165 个议题和 186 个 PR",
+      "OpenClaw v2026.10.5-beta.2 修复更新恢复",
+      "OpenClaw v2026.10.2 稳定版升级顺利完成",
+      "OpenClaw 仍面临 P0 更新和内存泄漏缺陷",
+      "OpenClaw：仍有 335 个未关闭议题、314 个未合并 PR"
+    ],
+    "ai-infra": [
+      "llama.cpp 在一个摘要窗口内落地 11 个构建",
+      "Ollama 与 Unsloth 推出新 beta 版本",
+      "vLLM、SGLang、LiteLLM 未发布稳定版",
+      "SGLang 构建 21 部分多适配器 LoRA 栈",
+      "投机解码：优化最多，稳定性最差",
+      "硬件推进：AMD MI355X、Intel XPU、Ascend"
+    ],
+    "ai-trending": [
+      "morluto/rea 今日新增 +45,327 个星标",
+      "cathrynlavery/diagram-design 今日新增 +2,081 个星标",
+      "Alishahryar1/free-claude-code 新增 +626 个星标",
+      "mksglu/context-mode 新增 +246 个星标",
+      "airllm 称可在 4GB GPU 上推理 2.8T",
+      "Microsoft BitNet 推进 1-bit LLM 推理"
+    ],
+    "ai-web": [
+      "Anthropic 发布 4 篇新文章；OpenAI 未发布",
+      "Anthropic 警告小型 AI 或可在 IoT 上自我复制",
+      "9B 模型可在 9 类测试硬件中的 8 类运行",
+      "蒸馏防御将非法数据减少 90–99%",
+      "Anthropic 在网络蒸馏中点名 Zhipu/GLM-5.3",
+      "Claude 发现具 CRISPR 样重复的新酶"
+    ],
+    "ai-hn": [
+      "OpenAI 数学进展帖占据 Hacker News 热榜",
+      "Karpathy：共享 LLM 理解正在扩大",
+      "Meta Muse Wonder 获 548 分、302 条评论",
+      "Z.ai GLM-Legal 获 463 分、260 条评论",
+      "Codex CLI 后台守护进程引发 HN 讨论",
+      "QGIS 宣布暂停接受 AI 贡献"
+    ],
+    "ai-community": [
+      "Dev.to：Hacktoberfest“Touch Grass”AI 挑战居首",
+      "开发者关注智能体护栏与提示注入",
+      "$40k console.log 凸显 AI 工具可观测性",
+      "Lobste.rs：字节级 LM 与 Rust ML 性能",
+      "本地 LLM 基准与人在回路 UX 趋势",
+      "AI 项目促使用户外出并追踪空气质量"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "AI CLI tools shift to production agent runtimes",
+      "Copilot CLI releases v1.0.97-2 and v1.0.96",
+      "Gemini CLI ships v0.65.0-nightly.20261013",
+      "Codex: 50 issues and 24 PRs updated in 24h",
+      "Enterprise focus: BYOK routing, MCP auth, sandbox",
+      "Claude Code quiet, but 10 issues highlighted"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues and 500 PRs updated in 24h",
+      "OpenClaw closes 165 issues and 186 PRs in 24h",
+      "OpenClaw v2026.10.5-beta.2 fixes update recovery",
+      "OpenClaw v2026.10.2 stable upgrade completes cleanly",
+      "OpenClaw still faces P0 update and memory-leak bugs",
+      "OpenClaw: 335 open issues, 314 open PRs remain"
+    ],
+    "ai-infra": [
+      "llama.cpp lands 11 builds in one digest window",
+      "Ollama and Unsloth push new beta releases",
+      "vLLM, SGLang, LiteLLM ship zero stable releases",
+      "SGLang builds 21-part multi-adapter LoRA stack",
+      "Speculative decoding: most optimized, least stable",
+      "Hardware push: AMD MI355X, Intel XPU, Ascend"
+    ],
+    "ai-trending": [
+      "morluto/rea gains +45,327 stars today",
+      "cathrynlavery/diagram-design adds +2,081 stars today",
+      "Alishahryar1/free-claude-code gains +626 stars",
+      "mksglu/context-mode adds +246 stars",
+      "airllm claims 2.8T inference on 4GB GPU",
+      "Microsoft BitNet pushes 1-bit LLM inference"
+    ],
+    "ai-web": [
+      "Anthropic posts 4 new articles; OpenAI posts none",
+      "Anthropic warns small AI may self-replicate on IoT",
+      "9B model runs on 8 of 9 tested hardware types",
+      "Distillation defenses cut illicit data by 90–99%",
+      "Anthropic names Zhipu/GLM-5.3 in cyber distillation",
+      "Claude discovers novel enzyme with CRISPR-like repeats"
+    ],
+    "ai-hn": [
+      "OpenAI math progress thread dominates Hacker News",
+      "Karpathy: shared LLM understanding is widening",
+      "Meta Muse Wonder hits 548 points, 302 comments",
+      "Z.ai GLM-Legal scores 463 points, 260 comments",
+      "Codex CLI background daemon sparks HN debate",
+      "QGIS announces moratorium on AI contributions"
+    ],
+    "ai-community": [
+      "Dev.to: Hacktoberfest 'Touch Grass' AI challenge leads",
+      "Devs focus on agent guardrails and prompt injection",
+      "$40k console.log highlights AI tooling observability",
+      "Lobste.rs: byte-level LMs and Rust ML performance",
+      "Local-LLM benchmarks and human-in-the-loop UX trend",
+      "AI projects nudge users outdoors and track air quality"
+    ]
+  }
+}
