@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Codex、Gemini CLI、Copilot CLI、Qwen Code 发布构建",
+      "Claude Code、OpenCode、Pi 无新版本发布",
+      "用户要求支出上限与重启安全会话",
+      "MCP 与插件行为需可预测",
+      "Windows、IDE 一致性与终端渲染仍是痛点",
+      "BYOK 与 Bedrock/Vertex 路由是关键差异"
+    ],
+    "ai-agents": [
+      "OpenClaw：过去24小时500个问题、500个PR",
+      "OpenClaw 发布稳定版 v2026.10.3 与测试版 v2026.10.5-beta.3",
+      "OpenClaw 关闭208个问题；合并/关闭185个PR",
+      "v2026.10.3：90次提交，79个PR，99位贡献者",
+      "OpenClaw 积压大量P0/P1可靠性问题",
+      "更新失败与会话丢失是OpenClaw主要风险"
+    ],
+    "ai-infra": [
+      "LiteLLM 发布 v1.106.0-rc.2 网关更新",
+      "Unsloth 发布 v0.1.907-beta 微调构建",
+      "vLLM v0.31.0-cu129 容器因 CUDA 不匹配损坏",
+      "主要服务引擎未发布核心版本",
+      "DeepSeek-V4、GLM-5.3、Qwen3.8、Kimi-K3 相关工作占主导",
+      "KV-cache、PD 分离与量化路径受关注"
+    ],
+    "ai-trending": [
+      "morluto/rea 一天内新增 +54,679 星标",
+      "上下文工具趋同：claude-mem、mem0、headroom",
+      "vercel-labs/skills 推出 npx skills 分发",
+      "VoiceStudio：支持646种语言的本地 ElevenLabs 竞品",
+      "AirLLM 在4GB GPU上运行2.8T参数模型",
+      "RAG 转向知识图谱与无向量索引"
+    ],
+    "ai-web": [
+      "因 Claude 编码，Anthropic 合并达每天30,000次",
+      "Anthropic 构建 Scion 以替代 Git 源代码控制",
+      "Antique 是 Anthropic 的新代码审查界面",
+      "从 Git 迁移源代码控制耗时五个月",
+      "Anthropic 反蒸馏将采集降低90-99%",
+      "Zhipu/GLM-5.3 被指涉 Claude 蒸馏尝试"
+    ],
+    "ai-hn": [
+      "Gemini 4 Argon 以978分、743条评论登顶HN",
+      "Gemini 4 Argon for Robotics 获198分",
+      "OpenAI 工程师因隐藏监听设备被捕",
+      "Character.ai 申请第11章破产保护",
+      "Codex CLI 后台守护进程争议登上HN",
+      "GLM-Legal 与 Meta Muse Wonder 让模型竞赛持续火热"
+    ],
+    "ai-community": [
+      "AI代理通过认证却采取未授权行动",
+      "Dev.to 警告：代理重启后忘记状态",
+      "AI疲劳文章获53个反应、15条评论",
+      "Vibe编码克隆：什么能真正存活？",
+      "Lobste.rs 探讨字节级语言模型",
+      "Lobste.rs 上的浏览器RAG与微型语音转文本"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Codex, Gemini CLI, Copilot CLI, Qwen Code ship builds",
+      "Claude Code, OpenCode, Pi had no releases",
+      "Users demand spend caps and restart-safe sessions",
+      "MCP and plugin behavior need predictability",
+      "Windows, IDE parity, terminal rendering remain friction",
+      "BYOK and Bedrock/Vertex routing are key differentiators"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues, 500 PRs in last 24h",
+      "OpenClaw ships stable v2026.10.3 and beta v2026.10.5-beta.3",
+      "208 OpenClaw issues closed; 185 PRs merged/closed",
+      "v2026.10.3: 90 commits, 79 PRs, 99 contributors",
+      "OpenClaw backlog heavy with P0/P1 reliability issues",
+      "Update failures and session loss top OpenClaw risks"
+    ],
+    "ai-infra": [
+      "LiteLLM ships v1.106.0-rc.2 gateway update",
+      "Unsloth releases v0.1.907-beta fine-tuning build",
+      "vLLM v0.31.0-cu129 container broken by CUDA mismatch",
+      "No major serving engine shipped a core release",
+      "DeepSeek-V4, GLM-5.3, Qwen3.8, Kimi-K3 work dominates",
+      "KV-cache, PD disaggregation, quant paths in focus"
+    ],
+    "ai-trending": [
+      "morluto/rea gains +54,679 stars in one day",
+      "Context tools converge: claude-mem, mem0, headroom",
+      "vercel-labs/skills ships npx skills distribution",
+      "VoiceStudio: local ElevenLabs rival in 646 languages",
+      "AirLLM runs 2.8T-param models on 4GB GPU",
+      "RAG shifts to knowledge graphs and vectorless indexes"
+    ],
+    "ai-web": [
+      "Anthropic merges hit 30,000/day due Claude coding",
+      "Anthropic built Scion to replace Git source control",
+      "Antique is Anthropic's new code review surface",
+      "Source control migration from Git took five months",
+      "Anthropic anti-distillation cuts harvesting by 90-99%",
+      "Zhipu/GLM-5.3 named in Claude distillation attempt"
+    ],
+    "ai-hn": [
+      "Gemini 4 Argon tops HN with 978 points, 743 comments",
+      "Gemini 4 Argon for Robotics scores 198 points",
+      "OpenAI engineer arrested over hidden listening device",
+      "Character.ai files Chapter 11 bankruptcy",
+      "Codex CLI background-daemon controversy hits HN",
+      "GLM-Legal and Meta Muse Wonder keep model race hot"
+    ],
+    "ai-community": [
+      "AI agents pass auth but take unauthorized actions",
+      "Agents forget state after restarts, Dev.to warns",
+      "AI Fatigue post gets 53 reactions, 15 comments",
+      "Vibe-coding clones: what actually survives?",
+      "Lobste.rs explores byte-level language models",
+      "Browser RAG and tiny speech-to-text on Lobste.rs"
+    ]
+  }
+}
