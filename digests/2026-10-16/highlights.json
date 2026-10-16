@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "七款AI CLI工具发布可靠性加固，非新功能",
+      "Claude Code、Copilot CLI、OpenCode、Pi、Qwen Code均已发布",
+      "Codex发布小版本及alpha更新",
+      "沙箱与权限摩擦是社区最大痛点",
+      "V2→V1降级损坏影响CLI升级",
+      "上下文与token经济主导讨论"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时内出现500个issue和500个PR",
+      "OpenClaw跨beta与stable发布4个版本",
+      "v2026.10.10-beta.1将SQLite移出主线程",
+      "v2026.10.5-beta.4修复macOS/systemd更新",
+      "OpenClaw PR关闭率达约60%",
+      "存储与插件生命周期P0/P1债务仍存"
+    ],
+    "ai-infra": [
+      "llama.cpp发布v0.7.0 / b11669",
+      "LiteLLM发布v1.107.0-dev.2预发布版",
+      "LiteLLM新增cosign Docker验证",
+      "Unsloth发布v0.1.908-beta",
+      "服务引擎竞相支持DeepSeek-V4.1-Flash",
+      "静默KV-cache污染缺陷引发安全警报"
+    ],
+    "ai-trending": [
+      "morluto/rea今日星标激增+32,314",
+      "Anthropic推出claude-plugins-official",
+      "affaan-m/ECC新增+1,013星，现280,387",
+      "Agent测试框架热度超过新模型",
+      "VoiceStudio显示本地私密语音AI需求",
+      "RAG转向持久记忆与图索引"
+    ],
+    "ai-web": [
+      "Anthropic给予METR类似员工权限以审计",
+      "Anthropic扩展评估方：SecureBio、Accenture",
+      "Claude for Government以1美元向美国各部门提供",
+      "Anthropic日合并量从2,500增至30,000",
+      "Anthropic构建Scion VCS，并从git迁移",
+      "选举报告：5.75%涉政治，0.01%询问投票"
+    ],
+    "ai-hn": [
+      "Gemini 4 Argon登顶HN：1,456分，1,036评论",
+      "Meta Muse Spark Open获588分、330评论",
+      "Goodfire的“神经网络是干净的”获476分",
+      "Liquid AI LFM2.5瞄准快速端侧Agent",
+      "Agent遏制与监控成安全辩论焦点",
+      "Scion/Mononoke归属争议激化HN辩论"
+    ],
+    "ai-arxiv": [
+      "Agentic AI论文聚焦鲁棒性与验证",
+      "论文：《你的Transformer暗藏弹性》",
+      "Continuum Attention取代离散KV查找",
+      "Latent Compaction在测试时削减长上下文内存",
+      "论文推动超越终端奖励的可靠监督",
+      "Lean验证与医疗隐私审计提升安全"
+    ],
+    "ai-community": [
+      "Dev.to：vibe-coding升级Angular获34个反响",
+      "Dev.to：为AI编码Agent构建测谎器",
+      "本地Gemma范围蔓延守卫告知客户“超出范围”",
+      "AI测试看似通过却隐藏错误假设",
+      "Lobste.rs以OpenFatigue讽刺‘开放’AI疲劳",
+      "开发者偏好护栏与度量而非炒作"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Seven AI CLI tools ship reliability hardening, not features",
+      "Claude Code, Copilot CLI, OpenCode, Pi, Qwen Code all ship",
+      "Codex ships minor release plus alpha update",
+      "Sandbox and permission friction tops community pain",
+      "V2→V1 downgrade corruption hits CLI upgrades",
+      "Context and token economics dominate discussions"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and 500 PRs in 24h",
+      "OpenClaw ships 4 releases across beta and stable",
+      "v2026.10.10-beta.1 moves SQLite off main thread",
+      "v2026.10.5-beta.4 fixes macOS/systemd updates",
+      "OpenClaw hits ~60% PR close rate",
+      "Storage and plugin lifecycle P0/P1 debt remains"
+    ],
+    "ai-infra": [
+      "llama.cpp ships v0.7.0 / b11669",
+      "LiteLLM releases v1.107.0-dev.2 prerelease",
+      "LiteLLM adds cosign Docker verification",
+      "Unsloth ships v0.1.908-beta",
+      "Serving engines race to support DeepSeek-V4.1-Flash",
+      "Silent KV-cache contamination bugs raise safety alarms"
+    ],
+    "ai-trending": [
+      "morluto/rea spikes +32,314 stars today",
+      "Anthropic launches claude-plugins-official",
+      "affaan-m/ECC adds +1,013 stars, now 280,387",
+      "Agent harnesses dominate trending over new models",
+      "VoiceStudio shows demand for local private voice AI",
+      "RAG shifts toward persistent memory and graph indexes"
+    ],
+    "ai-web": [
+      "Anthropic gives METR employee-like access for audits",
+      "Anthropic expands evaluators: SecureBio, Accenture",
+      "Claude for Government offered to all US branches for $1",
+      "Anthropic merges grew from 2,500 to 30,000 per day",
+      "Anthropic builds Scion VCS, migrates off git",
+      "Election report: 5.75% political, 0.01% vote asks"
+    ],
+    "ai-hn": [
+      "Gemini 4 Argon tops HN: 1,456 points, 1,036 comments",
+      "Meta Muse Spark Open draws 588 points, 330 comments",
+      "Goodfire's 'Neural networks are clean' hits 476 points",
+      "Liquid AI LFM2.5 targets fast on-device agents",
+      "Agent containment and monitoring tops security debate",
+      "Scion/Mononoke attribution dispute fuels HN debate"
+    ],
+    "ai-arxiv": [
+      "Agentic AI papers target robustness and verification",
+      "Paper: 'Your Transformer Is Secretly Elastic'",
+      "Continuum Attention replaces discrete KV lookup",
+      "Latent Compaction cuts long-context memory at test time",
+      "Papers push reliable supervision beyond terminal rewards",
+      "Lean verification and medical privacy audits advance safety"
+    ],
+    "ai-community": [
+      "Dev.to: vibe-coding an Angular upgrade gets 34 reactions",
+      "Dev.to: building a lie detector for AI coding agents",
+      "Local Gemma scope-creep guard tells clients 'out of scope'",
+      "AI tests can look green but hide wrong assumptions",
+      "Lobste.rs satirizes 'open' AI fatigue with OpenFatigue",
+      "Developers favor guardrails and measurement over hype"
+    ]
+  }
+}
